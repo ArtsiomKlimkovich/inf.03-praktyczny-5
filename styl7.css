@@ -1,0 +1,64 @@
+*{
+    font-family: 'Cambria';
+}
+
+.lewy1, .lewy2{
+    background-color: #E1BEE7;
+    width: 25%;
+    float: left;
+}
+
+.lewy1{
+    height: 400px;
+}
+
+.lewy2{
+    height: 330px;
+}
+
+.prawy1, .prawy2{
+    width: 75%;
+    font-size: 170%;
+    text-align: center;
+    float: right;
+}
+
+.prawy1{
+    background-color: #9C64A6;
+    color: #fff;
+    height: 150px;
+}
+
+.prawy2{
+    color: indigo;
+    height: 580px;
+}
+
+.stopka{
+    background-color: #9C64A6;
+    color: #fff;
+    padding: 10px;
+    clear: both;
+}
+
+h2{
+    text-align: center;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+img{
+    padding: 4px;
+    margin: 15px;
+}
+
+img:hover{
+    padding: 3px;
+    border: 1px dotted indigo;
+}
+
+.toMain{
+    padding: 25px;
+}
